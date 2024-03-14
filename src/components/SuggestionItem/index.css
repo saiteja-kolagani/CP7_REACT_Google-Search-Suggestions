@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  width: 100%;
+  padding-right: 20px;
+  justify-content: center;
+  align-items: center;
+  padding-left: 6px;
+  margin-bottom: 2px;
+}
+.arrow-icon {
+  width: 2.5vh;
+  margin-left: auto;
+}
+.list-suggestion {
+  font-size: 14px;
+  color: #475569;
+  font-weight: 500;
+}
